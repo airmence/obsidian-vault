@@ -1,0 +1,1 @@
+rmdir in Linux removes an empty directory only; the directory must contain nothing except `.` and `..`, and you need write permission in its parent directory. Use `ls -a` to check it’s empty, then run `rmdir directory` (optionally `rmdir -p ...` to remove empty parent directories).

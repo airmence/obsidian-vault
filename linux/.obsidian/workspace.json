@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "dfe17fe6516c906c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cbdfbd4e96ef14e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2bcbff8c2ce49db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "428c28a2436f3ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GNU LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GNU LINUX"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d58f0890a202c507",
+    "type": "split",
+    "children": [
+      {
+        "id": "771c5962271ace80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6bb1138f7451653",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50bc842a53bf4c08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a32f09c3f365163",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89cb96392e767317",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73530c91dcf616e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c5612a435e9684",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "command/Basics command.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2e3020fed980e9f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f72bf1b601c3a3df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6dbe0f1409844384",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "227b7571ecfe5a47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d6bb1138f7451653",
+  "lastOpenFiles": [
+    "command/System Resource Monitoring",
+    "piping & redirecting",
+    "command/search & find",
+    "command/permissions and access",
+    "GNU LINUX.md",
+    "kernel&virtualization/systemd.md",
+    "system and service manager.md",
+    "kernel&virtualization/Bootloader.md",
+    "kernel&virtualization/init system.md",
+    "Terminal, Shell, and Terminal Emulator.md",
+    "everything file.md",
+    "kernel&virtualization/kernel.md",
+    "command/Basics command.md",
+    "command/creation and destruction/rmdir.md",
+    "command/creation and destruction/rm.md",
+    "command/creation and destruction/mkdir.md",
+    "command/creation and destruction/touch.md",
+    "command/move around/ls.md",
+    "command/move around/pwd.md",
+    "command/move around/cd.md",
+    "command/permissions and access/umask.md",
+    "command/permissions and access/chown.md",
+    "command/permissions and access/chmod.md",
+    "command/managing user/usermod.md",
+    "kernel",
+    "network/firewall/firewalld.md",
+    "network/linux networking.md",
+    "network/Network Interfaces.md",
+    "file n directories/begin of the tree.md",
+    "file n directories/bin.md",
+    "file n directories",
+    "command/managing user",
+    "Untitled.base",
+    "Untitled.canvas",
+    "kernel&virtualization",
+    "network/firewall",
+    "IPv4"
+  ]
+}
